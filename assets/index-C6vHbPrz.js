@@ -4662,7 +4662,7 @@ void main() {
           <div class="col">
             <h4 class="mono">Verified</h4>
             <div class="credential-badge">
-              <img src="/images/cert-qr.png" alt="Scan to verify Kier's Ignite Philippines certificate" class="credential-qr" />
+              <img src="${baseUrl}images/cert-qr.png" alt="Scan to verify Kier's Ignite Philippines certificate" class="credential-qr" />
               <div>
                 <p class="credential-label">Ignite Philippines</p>
                 <p class="credential-sub muted small">Entrepreneurship · Wadhwani Foundation, 2026</p>
